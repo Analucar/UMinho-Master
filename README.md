@@ -10,11 +10,11 @@ All of the projects were developed during my time studying for my Master's Degre
 ### :wavy_dash: FIRST YEAR 	:wavy_dash:
 
 #### 🌺 1st Semester 
-Dados de Aprendizagem Automática
+[Dados de Aprendizagem Automática](https://github.com/Analucar/UMinho-Master/tree/main/FirstYear/1st/DAA)
 
-Aplicações e Serviços de Computação em Nuvem
+[Aplicações e Serviços de Computação em Nuvem](https://github.com/Analucar/UMinho-Master/tree/main/FirstYear/1st/ASCN)
 
-Métodos Formais em Engenharia de Software
+[Métodos Formais em Engenharia de Software](https://github.com/Analucar/UMinho-Master/tree/main/FirstYear/1st/MFES)
 
 Engenharia de Serviços em Rede
 
