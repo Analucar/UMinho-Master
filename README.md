@@ -2,7 +2,9 @@
 
 ### Master's Degree
 
+<!--
 :pushpin: Here you'll find my university projects and their grades.
+-->
 
 All of the projects were developed during my time studying for my Master's Degree in Software Engineering at University of Minho.
 
