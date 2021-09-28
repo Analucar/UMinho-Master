@@ -16,11 +16,11 @@ All of the projects were developed during my time studying for my Master's Degre
 
 [Métodos Formais em Engenharia de Software](https://github.com/Analucar/UMinho-Master/tree/main/FirstYear/1st/MFES)
 
-Engenharia de Serviços em Rede
+[Engenharia de Serviços em Rede](https://github.com/Analucar/UMinho-Master/tree/main/FirstYear/1st/ESR)
 
-Requisitos e Arquiteturas de Software
+[Requisitos e Arquiteturas de Software](https://github.com/Analucar/UMinho-Master/tree/main/FirstYear/1st/RAS)
 
-Computação Paralela
+[Computação Paralela]((https://github.com/Analucar/UMinho-Master/tree/main/FirstYear/1st/CP))
 
 #### 🌺 2nd Semester 
 
