@@ -20,7 +20,7 @@ All of the projects were developed during my time studying for my Master's Degre
 
 [Requisitos e Arquiteturas de Software](https://github.com/Analucar/UMinho-Master/tree/main/FirstYear/1st/RAS)
 
-[Computação Paralela]((https://github.com/Analucar/UMinho-Master/tree/main/FirstYear/1st/CP))
+[Computação Paralela](https://github.com/Analucar/UMinho-Master/tree/main/FirstYear/1st/CP)
 
 #### 🌺 2nd Semester 
 
