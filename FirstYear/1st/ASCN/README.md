@@ -1,4 +1,4 @@
-### :books: Programação Orientada a Objetos
+### :books: Aplicações e Serviços de Computação em Nuvem
 ***
 
 This project consisted in characterized, analysed, install, monitorized and evaluate the wikijs application. 
