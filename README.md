@@ -14,7 +14,7 @@ All of the projects were developed during my time studying for my Master's Degre
 #### 🌺 1st Semester 
 17 - [Dados de Aprendizagem Automática](https://github.com/Analucar/UMinho-Master/tree/main/FirstYear/1st/DAA)
 
-14,5 - [Aplicações e Serviços de Computação em Nuvem](https://github.com/Analucar/UMinho-Master/tree/main/FirstYear/1st/ASCN)
+15 - [Aplicações e Serviços de Computação em Nuvem](https://github.com/Analucar/UMinho-Master/tree/main/FirstYear/1st/ASCN)
 
 [Métodos Formais em Engenharia de Software](https://github.com/Analucar/UMinho-Master/tree/main/FirstYear/1st/MFES)
 
@@ -22,7 +22,7 @@ All of the projects were developed during my time studying for my Master's Degre
 
 17 - [Requisitos e Arquiteturas de Software](https://github.com/Analucar/UMinho-Master/tree/main/FirstYear/1st/RAS)
 
-16,5 - [Computação Paralela](https://github.com/Analucar/UMinho-Master/tree/main/FirstYear/1st/CP)
+17 - [Computação Paralela](https://github.com/Analucar/UMinho-Master/tree/main/FirstYear/1st/CP)
 
 #### 🌺 2nd Semester 
 
