@@ -2,7 +2,7 @@
 ***
 In this subject we developed 3 different projects. Although I don't know the grade for each project, the avarege score between the 3 projects is ??.
 
-- The fisrt project consisted in putting into practice the concepts of developping applications in communications network.
+- The first project consisted in putting into practice the concepts of developping applications in communications network.
 - The second project consisted in experimenting with severall streamming solutions on demand.
 - The third project consisted in developping a program that streams video.
 
