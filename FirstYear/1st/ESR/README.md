@@ -1,5 +1,6 @@
 ### :books: Engenharia de Serviços em Rede
 ***
+In this subject we developed 3 different projects. Although I don't know the grade for each project, the avarege score between the 3 projects is ??.
 
 ##### Project 1
 
