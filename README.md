@@ -26,6 +26,22 @@ All of the projects were developed during my time studying for my Master's Degre
 
 #### 🌺 2nd Semester 
 
+##### Perfil Criptografia e Segurança da Informação (CSI)
+
+[Estruturas Criptográficas](https://github.com/Analucar/UMinho-Master/tree/main/FirstYear/2nd/CSI/EC)
+
+[Tecnologia de Segurança](https://github.com/Analucar/UMinho-Master/tree/main/FirstYear/2nd/CSI/TS)
+
+[Engenharia de Segurança](https://github.com/Analucar/UMinho-Master/tree/main/FirstYear/2nd/CSI/ES)
+
+##### Perfil Engenharia de Conhecimento (EC)
+
+[Análise Inteligente em sistemas de "Big Data"](https://github.com/Analucar/UMinho-Master/tree/main/FirstYear/2nd/EC/AISBD)
+
+[Base de Dados NoSQL](https://github.com/Analucar/UMinho-Master/tree/main/FirstYear/2nd/EC/BDNoSQL)
+
+[Mineração de dados](https://github.com/Analucar/UMinho-Master/tree/main/FirstYear/2nd/EC/MD)
+
 ***
 
 ### :wavy_dash: SECOND YEAR 	:wavy_dash:
