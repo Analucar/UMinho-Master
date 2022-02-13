@@ -8,4 +8,4 @@ This project consisted in characterized, analysed, install, monitorized and eval
 - [Rita Peixoto](https://github.com/rita-peixoto)
 - [Luís Pinto](https://github.com/L-Pinto)
 - [Francisco Peixoto](https://github.com/eramsodoiseuros)
-- [Joao Freitas]
+- Joao Freitas
