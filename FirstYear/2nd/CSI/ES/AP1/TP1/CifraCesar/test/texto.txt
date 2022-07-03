@@ -1,0 +1,1 @@
+This is a random text used to test the usage of a brute force attack on the ceaser cipher. This text will be encrypted using one to five ciphers in a row and their keys will be randomized. Applying multiple ciphers of this type in a row is the same as applying just one with a key equal to the sum of the keys of the ciphers applied in a row.
