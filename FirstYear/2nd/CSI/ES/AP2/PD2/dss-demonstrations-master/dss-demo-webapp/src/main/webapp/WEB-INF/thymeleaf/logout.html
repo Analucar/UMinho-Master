@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org" layout:decorate="~{layout.html}" th:with="currentPage=#{label.logout}">
+    <body>
+        <div layout:fragment="content">
+
+            <div th:replace="fragment/disclaimer-mock-tsp::mock-tsp-warn"></div>
+
+            <form method="post" enctype="multipart/form-data" th:action="@{/logout}"></form>
+        </div>
+        <div layout:fragment="scripts">
+            <script type="text/javascript">
+                $('[data-toggle="tooltip"]').tooltip();
+            </script>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org" layout:decorate="~{login-layout.html}" th:with="currentPage=#{label.login}">
+	<body>		
+		<div layout:fragment="content">
+		
+			<div th:replace="fragment/disclaimer-mock-tsp::mock-tsp-warn"></div>
+
+            <form method="post" enctype="multipart/form-data" th:action="@{/login}" >
+                <div class="form-group row">
+                    <div class="col-sm-3">
+                        <label>
+                            Email
+                        </label>
+
+                    </div>
+                    <div class="col-sm-5" >
+                        <input type="text" class="form-control input-sm" name="username"/>
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <div class="col-sm-3">
+                        <label>
+                            Password
+                        </label>
+                    </div>
+                    <div class="col-sm-5">
+                        <input type="password" class="form-control input-sm" name="password"/>
+                    </div>
+                </div>
+
+
+                <div th:if="${param.error}">
+                    <p style="color:red"> Incorrect email or password.</p>
+                </div>
+
+                <div class="form-group row">
+                    <div class="offset-sm-3 col-sm-9">
+                        <button type="submit" class="btn btn-primary" id="submit-button" th:text="#{label.login}"></button>
+                        <a href="/signup" th:href="@{/signup}" class="btn btn-large btn-success">Sign up</a>
+                    </div>
+                </div>
+            </form>
+		</div>
+		<div layout:fragment="scripts">
+            <script type="text/javascript">
+				$('[data-toggle="tooltip"]').tooltip();
+            </script>
+		</div>
+	</body>
+</html>
