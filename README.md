@@ -28,19 +28,19 @@ All of the projects were developed during my time studying for my Master's Degre
 
 ##### Perfil: Criptografia e Segurança da Informação (CSI)
 
-[Estruturas Criptográficas](https://github.com/Analucar/UMinho-Master/tree/main/FirstYear/2nd/CSI/EC)
+18, 19, 19, 19 - [Estruturas Criptográficas](https://github.com/Analucar/UMinho-Master/tree/main/FirstYear/2nd/CSI/EC)
 
-[Tecnologia de Segurança](https://github.com/Analucar/UMinho-Master/tree/main/FirstYear/2nd/CSI/TS)
+20, 20, 17 - [Tecnologia de Segurança](https://github.com/Analucar/UMinho-Master/tree/main/FirstYear/2nd/CSI/TS)
 
-[Engenharia de Segurança](https://github.com/Analucar/UMinho-Master/tree/main/FirstYear/2nd/CSI/ES)
+17, 16, 20, 18 - [Engenharia de Segurança](https://github.com/Analucar/UMinho-Master/tree/main/FirstYear/2nd/CSI/ES)
 
 ##### Perfil: Engenharia de Conhecimento (EC)
 
-[Análise Inteligente em sistemas de "Big Data"](https://github.com/Analucar/UMinho-Master/tree/main/FirstYear/2nd/EC/AISBD)
+19, 19 - [Análise Inteligente em sistemas de "Big Data"](https://github.com/Analucar/UMinho-Master/tree/main/FirstYear/2nd/EC/AISBD)
 
-[Base de Dados NoSQL](https://github.com/Analucar/UMinho-Master/tree/main/FirstYear/2nd/EC/BDNoSQL)
+16 - [Base de Dados NoSQL](https://github.com/Analucar/UMinho-Master/tree/main/FirstYear/2nd/EC/BDNoSQL)
 
-[Mineração de dados](https://github.com/Analucar/UMinho-Master/tree/main/FirstYear/2nd/EC/MD)
+15 - [Mineração de dados](https://github.com/Analucar/UMinho-Master/tree/main/FirstYear/2nd/EC/MD)
 
 ***
 
