@@ -1,0 +1,9 @@
+[Unit]
+Description= Init the file monitorization service. 
+
+[Service]
+Type=oneshot
+ExecStart=/opt/monitord-init.sh
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,11 @@
+[Unit]
+Description=Run monitord 1min timer
+After=monitord-init.service
+Requires=monitord-init.service
+
+[Timer]
+OnActiveSec=0s
+OnUnitActiveSec=1min
+
+[Install]
+WantedBy=timers.target

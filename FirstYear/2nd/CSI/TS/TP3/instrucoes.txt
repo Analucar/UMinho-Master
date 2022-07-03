@@ -1,0 +1,42 @@
+Começamos por executar a makefile para a criação dos executáveis monitord e mon
+através do comando:
+$ make
+
+Opcionalmente, para criar individualmente cada um dos executáveis pode-se utilizar
+os seguintes comandos:
+$ make client
+$ make daemon
+
+Dentro da pasta scripts executar o comando de instalação para instalar o programa
+no sistema:
+$ sudo bash install.sh
+
+Opcionalmente, para utilizamos o serviço podemos começar por acrescentar ao ficheiro de 
+inicialização /etc/monitord-init.txt paths de ficheiros que pretendemos que sejam
+verificados pelo serviço, desde o inicio da sua operação, através do comando:
+$ sudo vi /etc/monitord-init.txt
+
+Para inciar a operação de monitorização então é necessário dentro da pasta scripts executar o comando de 
+inicialização dos serviços implementados:
+$ sudo bash start.sh
+
+Caso pretendemos adicionar ou remover um ficheiro da lista de ficheiros a serem
+monitorizados utilizamos, respetivamente, os seguintes comandos:
+$ /etc/mon -a <ficheiro>
+$ /etc/mon -d <ficheiro>
+
+Para aceder aos logs do programa ou verificar o ficheiro que contém informação (metadados)
+sobre os ficheiros a serem vigiados utilizamos, respetivamente, os comandos:
+$ cat /var/log/monitord-logs.log
+$ cat /etc/monitord-registry.txt
+
+Nota: O ficheiro dos logs so existirá caso o programa tenha de facto escrito pela primeira
+vez neste ficheiro, ou seja, o serviço verificou que um dos ficheiros que está a monitorizar
+foi modificado.
+
+Caso pretendamos parar e desinstalar os serviços implementados utilizamos, respetivamente, os seguintes comandos:
+$ sudo bash stop.sh
+$ sudo bash uninstall.sh
+
+Para remover os ficheiros gerados pela Makefile pode-se utilizar o seguinte comando:
+$ make clean
